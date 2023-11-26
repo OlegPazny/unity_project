@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 596c1c17fb97eef4d932715024c0030f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: axle-nut-2_Cylinder.022
+    100004: axle-nut-5_Cylinder.022
+    100006: //RootNode
+    100008: cc_base_body
+    100010: cc_base_eye
+    100012: cc_base_eyeocclusion
+    100014: cc_base_tearline
+    100016: chain-curve
+    100018: chain-inner-link_Circle
+    100020: chain-outer-link_Circle.002
+    100022: Circle.002_Circle.003
+    100024: Circle.003_Circle.012
+    100026: Circle.004_Mesh.003
+    100028: Circle.016_Circle.013
+    100030: eyeglasses_1
+    100032: hair
+    100034: mixamorig:Head
+    100036: mixamorig:HeadTop_End
+    100038: mixamorig:Hips
+    100040: mixamorig:LeftArm
+    100042: mixamorig:LeftFoot
+    100044: mixamorig:LeftForeArm
+    100046: mixamorig:LeftHand
+    100048: mixamorig:LeftHandIndex1
+    100050: mixamorig:LeftHandIndex2
+    100052: mixamorig:LeftHandIndex3
+    100054: mixamorig:LeftHandIndex4
+    100056: mixamorig:LeftHandMiddle1
+    100058: mixamorig:LeftHandMiddle2
+    100060: mixamorig:LeftHandMiddle3
+    100062: mixamorig:LeftHandMiddle4
+    100064: mixamorig:LeftHandPinky1
+    100066: mixamorig:LeftHandPinky2
+    100068: mixamorig:LeftHandPinky3
+    100070: mixamorig:LeftHandPinky4
+    100072: mixamorig:LeftHandRing1
+    100074: mixamorig:LeftHandRing2
+    100076: mixamorig:LeftHandRing3
+    100078: mixamorig:LeftHandRing4
+    100080: mixamorig:LeftHandThumb1
+    100082: mixamorig:LeftHandThumb2
+    100084: mixamorig:LeftHandThumb3
+    100086: mixamorig:LeftHandThumb4
+    100088: mixamorig:LeftLeg
+    100090: mixamorig:LeftShoulder
+    100092: mixamorig:LeftToe_End
+    100094: mixamorig:LeftToeBase
+    100096: mixamorig:LeftUpLeg
+    100098: mixamorig:Neck
+    100100: mixamorig:RightArm
+    100102: mixamorig:RightFoot
+    100104: mixamorig:RightForeArm
+    100106: mixamorig:RightHand
+    100108: mixamorig:RightHandIndex1
+    100110: mixamorig:RightHandIndex2
+    100112: mixamorig:RightHandIndex3
+    100114: mixamorig:RightHandIndex4
+    100116: mixamorig:RightHandMiddle1
+    100118: mixamorig:RightHandMiddle2
+    100120: mixamorig:RightHandMiddle3
+    100122: mixamorig:RightHandMiddle4
+    100124: mixamorig:RightHandPinky1
+    100126: mixamorig:RightHandPinky2
+    100128: mixamorig:RightHandPinky3
+    100130: mixamorig:RightHandPinky4
+    100132: mixamorig:RightHandRing1
+    100134: mixamorig:RightHandRing2
+    100136: mixamorig:RightHandRing3
+    100138: mixamorig:RightHandRing4
+    100140: mixamorig:RightHandThumb1
+    100142: mixamorig:RightHandThumb2
+    100144: mixamorig:RightHandThumb3
+    100146: mixamorig:RightHandThumb4
+    100148: mixamorig:RightLeg
+    100150: mixamorig:RightShoulder
+    100152: mixamorig:RightToe_End
+    100154: mixamorig:RightToeBase
+    100156: mixamorig:RightUpLeg
+    100158: mixamorig:Spine
+    100160: mixamorig:Spine1
+    100162: mixamorig:Spine2
+    100164: shirt_jeans
+    100166: sneaker
+    100168: tank
+    100170: washer_Cylinder.000
+    400000: Armature
+    400002: axle-nut-2_Cylinder.022
+    400004: axle-nut-5_Cylinder.022
+    400006: //RootNode
+    400008: cc_base_body
+    400010: cc_base_eye
+    400012: cc_base_eyeocclusion
+    400014: cc_base_tearline
+    400016: chain-curve
+    400018: chain-inner-link_Circle
+    400020: chain-outer-link_Circle.002
+    400022: Circle.002_Circle.003
+    400024: Circle.003_Circle.012
+    400026: Circle.004_Mesh.003
+    400028: Circle.016_Circle.013
+    400030: eyeglasses_1
+    400032: hair
+    400034: mixamorig:Head
+    400036: mixamorig:HeadTop_End
+    400038: mixamorig:Hips
+    400040: mixamorig:LeftArm
+    400042: mixamorig:LeftFoot
+    400044: mixamorig:LeftForeArm
+    400046: mixamorig:LeftHand
+    400048: mixamorig:LeftHandIndex1
+    400050: mixamorig:LeftHandIndex2
+    400052: mixamorig:LeftHandIndex3
+    400054: mixamorig:LeftHandIndex4
+    400056: mixamorig:LeftHandMiddle1
+    400058: mixamorig:LeftHandMiddle2
+    400060: mixamorig:LeftHandMiddle3
+    400062: mixamorig:LeftHandMiddle4
+    400064: mixamorig:LeftHandPinky1
+    400066: mixamorig:LeftHandPinky2
+    400068: mixamorig:LeftHandPinky3
+    400070: mixamorig:LeftHandPinky4
+    400072: mixamorig:LeftHandRing1
+    400074: mixamorig:LeftHandRing2
+    400076: mixamorig:LeftHandRing3
+    400078: mixamorig:LeftHandRing4
+    400080: mixamorig:LeftHandThumb1
+    400082: mixamorig:LeftHandThumb2
+    400084: mixamorig:LeftHandThumb3
+    400086: mixamorig:LeftHandThumb4
+    400088: mixamorig:LeftLeg
+    400090: mixamorig:LeftShoulder
+    400092: mixamorig:LeftToe_End
+    400094: mixamorig:LeftToeBase
+    400096: mixamorig:LeftUpLeg
+    400098: mixamorig:Neck
+    400100: mixamorig:RightArm
+    400102: mixamorig:RightFoot
+    400104: mixamorig:RightForeArm
+    400106: mixamorig:RightHand
+    400108: mixamorig:RightHandIndex1
+    400110: mixamorig:RightHandIndex2
+    400112: mixamorig:RightHandIndex3
+    400114: mixamorig:RightHandIndex4
+    400116: mixamorig:RightHandMiddle1
+    400118: mixamorig:RightHandMiddle2
+    400120: mixamorig:RightHandMiddle3
+    400122: mixamorig:RightHandMiddle4
+    400124: mixamorig:RightHandPinky1
+    400126: mixamorig:RightHandPinky2
+    400128: mixamorig:RightHandPinky3
+    400130: mixamorig:RightHandPinky4
+    400132: mixamorig:RightHandRing1
+    400134: mixamorig:RightHandRing2
+    400136: mixamorig:RightHandRing3
+    400138: mixamorig:RightHandRing4
+    400140: mixamorig:RightHandThumb1
+    400142: mixamorig:RightHandThumb2
+    400144: mixamorig:RightHandThumb3
+    400146: mixamorig:RightHandThumb4
+    400148: mixamorig:RightLeg
+    400150: mixamorig:RightShoulder
+    400152: mixamorig:RightToe_End
+    400154: mixamorig:RightToeBase
+    400156: mixamorig:RightUpLeg
+    400158: mixamorig:Spine
+    400160: mixamorig:Spine1
+    400162: mixamorig:Spine2
+    400164: shirt_jeans
+    400166: sneaker
+    400168: tank
+    400170: washer_Cylinder.000
+    2100000: washer
+    2100002: Stainless Steel.001
+    2100004: Steel
+    2100006: Steel grinded
+    2100008: bb-collar
+    2100010: crankset
+    2100012: Rusted steel
+    2100014: Steel.001
+    2100016: crankset_andel-crankset-normalmap.png
+    2100018: pedal-reflector
+    2100020: Black plastic old
+    2100022: reflector-orange-plastic
+    2100024: pedal-spikes
+    2100026: Tank.001
+    2100028: Sneaker.001
+    2100030: Shortjeans.001
+    2100032: Hair.001
+    2100034: Frame.001
+    2100036: Glasses.001
+    2100038: spoke
+    2100040: grand-bois-tire
+    2100042: Stainless Steel
+    2100044: hub-bearing
+    2100046: hub-inner-ring
+    2100048: Steel round brushed
+    2100050: Steel Satin metal
+    2100052: Dark Steel
+    2100054: hubs_NONE
+    2100056: chain-outer-links
+    2100058: chain-pins
+    2100060: chain-inner-links
+    2100062: Std_Tearline_R.001
+    2100064: Std_Tearline_L.001
+    2100066: Std_Eye_Occlusion_R.001
+    2100068: Std_Eye_Occlusion_L.001
+    2100070: Std_Eye_R.001
+    2100072: Std_Cornea_R.001
+    2100074: Std_Eye_L.001
+    2100076: Std_Cornea_L.001
+    2100078: Std_Skin_Head.001
+    2100080: Std_Skin_Body.001
+    2100082: Std_Skin_Arm.001
+    2100084: Std_Skin_Leg.001
+    2100086: Std_Nails.001
+    2100088: Std_Eyelash.001
+    2100090: Carbon FIber Shader
+    2100092: steel dark used
+    2100094: Carbon Fiber Procedural
+    2100096: bartape
+    2100098: Brushed aluminium
+    2100100: Metal with rust and brush
+    2100102: Brushed Aluminium Procedural
+    2100104: Iron brushed
+    2100106: Procedural vehicle paint
+    2100108: headset_NONE
+    2100110: saddle-black-plastic
+    2100112: saddle
+    2100114: seat-post-clamp-nut
+    2300000: axle-nut-2_Cylinder.022
+    2300002: axle-nut-5_Cylinder.022
+    2300004: chain-curve
+    2300006: chain-inner-link_Circle
+    2300008: chain-outer-link_Circle.002
+    2300010: Circle.002_Circle.003
+    2300012: Circle.003_Circle.012
+    2300014: Circle.004_Mesh.003
+    2300016: Circle.016_Circle.013
+    2300018: washer_Cylinder.000
+    3300000: axle-nut-2_Cylinder.022
+    3300002: axle-nut-5_Cylinder.022
+    3300004: chain-curve
+    3300006: chain-inner-link_Circle
+    3300008: chain-outer-link_Circle.002
+    3300010: Circle.002_Circle.003
+    3300012: Circle.003_Circle.012
+    3300014: Circle.004_Mesh.003
+    3300016: Circle.016_Circle.013
+    3300018: washer_Cylinder.000
+    4300000: washer_Cylinder.000
+    4300002: Circle.016_Circle.013
+    4300004: Circle.003_Circle.012
+    4300006: tank
+    4300008: sneaker
+    4300010: shirt_jeans
+    4300012: hair
+    4300014: eyeglasses_1
+    4300016: Circle.004_Mesh.003
+    4300018: Circle.002_Circle.003
+    4300020: chain-outer-link_Circle.002
+    4300022: chain-inner-link_Circle
+    4300024: chain-curve
+    4300026: cc_base_tearline
+    4300028: cc_base_eyeocclusion
+    4300030: cc_base_eye
+    4300032: cc_base_body
+    4300034: axle-nut-5_Cylinder.022
+    4300036: axle-nut-2_Cylinder.022
+    7400000: Armature|Armature
+    7400002: Armature|Armature.001
+    9500000: //RootNode
+    13700000: cc_base_body
+    13700002: cc_base_eye
+    13700004: cc_base_eyeocclusion
+    13700006: cc_base_tearline
+    13700008: eyeglasses_1
+    13700010: hair
+    13700012: shirt_jeans
+    13700014: sneaker
+    13700016: tank
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
